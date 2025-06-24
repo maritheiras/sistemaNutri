@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "916804180672",
+    "project_id": "sistema-nutri-85xb6d",
+    "storage_bucket": "sistema-nutri-85xb6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916804180672:android:6e876ebb30c68d5359eb25",
+        "android_client_info": {
+          "package_name": "com.mycompany.sistemanutri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916804180672-thcl7nj8u93nr699u6b8frqgp7qvm6qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.sistemanutri",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "916804180672-lef0g30rgh88mso8hij4pa3l8vhbfkj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFHOPu240ej5AWWlQjJExRjJeSwuarelE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916804180672-lef0g30rgh88mso8hij4pa3l8vhbfkj9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "916804180672-vin7vnqjue02s6ju0fjcopo32755bcsm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.sistemanutri"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
