@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "refeicoes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "data_refeicao",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data_criacao",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
